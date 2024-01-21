@@ -1,0 +1,1 @@
+export { CheckItemText } from "./CheckItemText";

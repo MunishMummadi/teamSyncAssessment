@@ -1,0 +1,1 @@
+export { PlatformFigmaStyleGrayStateHover } from "./PlatformFigmaStyleGrayStateHover";

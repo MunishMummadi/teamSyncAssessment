@@ -1,0 +1,1 @@
+export { TypeDefaultSizeSmColorPrimary } from "./TypeDefaultSizeSmColorPrimary";

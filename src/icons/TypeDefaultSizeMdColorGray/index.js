@@ -1,0 +1,1 @@
+export { TypeDefaultSizeMdColorGray } from "./TypeDefaultSizeMdColorGray";

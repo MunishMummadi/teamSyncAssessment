@@ -1,0 +1,1 @@
+export { TypeFilledSizeLgColorSuccess } from "./TypeFilledSizeLgColorSuccess";

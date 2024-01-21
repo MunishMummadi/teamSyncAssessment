@@ -1,0 +1,1 @@
+export { PlatformFigmaStyleBrandStateDefault } from "./PlatformFigmaStyleBrandStateDefault";

@@ -1,0 +1,1 @@
+export { PlatformInstagramStyleWhiteStateDefault } from "./PlatformInstagramStyleWhiteStateDefault";

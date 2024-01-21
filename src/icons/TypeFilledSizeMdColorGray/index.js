@@ -1,0 +1,1 @@
+export { TypeFilledSizeMdColorGray } from "./TypeFilledSizeMdColorGray";

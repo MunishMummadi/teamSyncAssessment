@@ -1,0 +1,1 @@
+export { TypeDefaultSizeLgColorPrimary } from "./TypeDefaultSizeLgColorPrimary";

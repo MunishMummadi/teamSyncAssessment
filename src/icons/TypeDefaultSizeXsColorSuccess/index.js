@@ -1,0 +1,1 @@
+export { TypeDefaultSizeXsColorSuccess } from "./TypeDefaultSizeXsColorSuccess";

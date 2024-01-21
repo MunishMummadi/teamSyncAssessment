@@ -1,0 +1,1 @@
+export { MobileAppStoreBadge } from "./MobileAppStoreBadge";

@@ -1,0 +1,1 @@
+export { TypeDefaultSizeXlColorSuccess } from "./TypeDefaultSizeXlColorSuccess";

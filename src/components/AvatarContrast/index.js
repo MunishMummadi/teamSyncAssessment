@@ -1,0 +1,1 @@
+export { AvatarContrast } from "./AvatarContrast";

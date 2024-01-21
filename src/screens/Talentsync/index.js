@@ -1,0 +1,1 @@
+export { Talentsync } from "./Talentsync";
